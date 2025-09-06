@@ -3,4 +3,4 @@
 이 앱에서는, 고양이가 사람과 말을 해줍니다.<br>
 Flutter로 android, ios 플랫폼으로 만들 것입니다. llm 모델을 파인튜닝 rag 등으로 수정할 예정입니다.<br>
 
-<img src="https://github.com/user-attachments/assets/1b012e07-d79f-4103-804f-06a86b5c85bf" width="200">아직 개발 중입니다....ㅎㅎ
+아직 개발 중입니다....ㅎㅎ

@@ -4,4 +4,4 @@
 Flutter로 android, ios 플랫폼으로 만들 것입니다. llm 모델을 파인튜닝 rag 등으로 수정할 예정입니다.<br>
 
 
-<img src="git_assets/ex_photo.png" width="200"/>아직 개발 중입니다....ㅎㅎ
+<img src="git_assets/ex_photo.png" width="250"/>아직 개발 중입니다....ㅎㅎ
